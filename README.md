@@ -1,0 +1,1 @@
+# Shifteo nodejs-role
